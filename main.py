@@ -165,3 +165,5 @@ def ApproxiatePatternCount(Pattern,Text,d):
 #print(FrequentWords(Genome, k))
 
 print(ReverseComplement("AAAACCCGGT"))
+
+print(PatternMaching("ATAT","GATATATGCATATACTT"))
